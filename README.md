@@ -1,5 +1,5 @@
-## Hi there 👋
-
+[## Hi there 👋
+](https://www.youtube.com/watch?v=G2OhaZs2mLg&list=PLYr9XWMErALQ6MUIvjgmesTUeh18gLSLh)
 <!--
 **moesoftie/moesoftie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
