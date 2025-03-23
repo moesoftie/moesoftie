@@ -1,16 +1,26 @@
-[## Hi there 👋
+## [Hi there 👋
 ](https://www.youtube.com/watch?v=G2OhaZs2mLg&list=PLYr9XWMErALQ6MUIvjgmesTUeh18gLSLh)
-<!--
-**moesoftie/moesoftie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://www.youtube.com/playlist?list=PLYr9XWMErALQHtqgOrbGiTrCIzpHlIYpf
+https://www.youtube.com/playlist?list=PLYr9XWMErALTEek0YqOIeDDgCB15Q18QB
+https://www.youtube.com/playlist?list=PLYr9XWMErALRZPBCUXOvx7nx8iS0fouo2
+https://www.youtube.com/playlist?list=PLYr9XWMErALQ6MUIvjgmesTUeh18gLSLh
+https://www.youtube.com/playlist?list=PLYr9XWMErALRkbvQhlbXtTggm65L1PeG2
+https://www.youtube.com/playlist?list=PLYr9XWMErALRY462Uh6W21ZpvLvxCTSPI
+https://www.youtube.com/playlist?list=PLYr9XWMErALTxv0sfTQxtJwIIlK4uHoFZ
+https://www.youtube.com/playlist?list=PLYr9XWMErALQjs5EyIjUUBuYlJfIq74ex
+https://www.youtube.com/playlist?list=PLYr9XWMErALQcOCR476R1CvxoWykhb-EV
+https://www.youtube.com/playlist?list=PLYr9XWMErALSlTSQBz3Y_fKUaJtxGIFQy
+https://www.youtube.com/playlist?list=PLYr9XWMErALRaOaJhLgA2GfeQyD-ifmCJ
+https://www.youtube.com/playlist?list=PLD_rWRNAxuexXLjZYAH_xdsRHC7rNTXDO
+https://www.youtube.com/playlist?list=PLYr9XWMErALSrSs5u7Fg5JXXF1efpwBtG
+https://www.youtube.com/playlist?list=PLYr9XWMErALRATGMuG-5Ic0iiJWm6hjbh
+https://www.youtube.com/playlist?list=PLYr9XWMErALRA_2G7RX0bRKTzVeOPD2sB
+https://www.youtube.com/playlist?list=PLYr9XWMErALQD7Xwvoe3ZjoYzueHws7oa
+https://www.youtube.com/playlist?list=PLYr9XWMErALSsy867-LVsLIo3Zfbd5IJk
+https://www.youtube.com/playlist?list=PLYr9XWMErALSVEZK6LMLalMPumGeZoGJZ
+https://www.youtube.com/playlist?list=PLYr9XWMErALTLmdrUDfiC9IwAjap97uFA
+https://www.youtube.com/playlist?list=PLYr9XWMErALTY4CkxplXl-FInKwc4o1qi
+https://www.youtube.com/playlist?list=PLYr9XWMErALR7bGWXdKCG8AmGASsvHsBd
+https://www.youtube.com/playlist?list=PLYr9XWMErALRGOXHubO3IwfukAF4LHFmW
+https://www.youtube.com/playlist?list=PLYr9XWMErALQyo1KX1per_p4CAF7iXBWO
+https://www.youtube.com/playlist?list=PLYr9XWMErALSFj6erDCR6Qgx58ssRJeb8
